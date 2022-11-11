@@ -23,6 +23,9 @@ import lombok.extern.slf4j.Slf4j;
 @Order(Ordered.HIGHEST_PRECEDENCE)
 public class CorsFilter implements Filter{
     
+    /**
+     * allow-origin설정을 통해 특정 도메인 허용을 설정할 수 있다
+     * **/
     @Override
     public void init(FilterConfig filterConfig) throws ServletException{
         log.trace("가장 디테일한 로그");
