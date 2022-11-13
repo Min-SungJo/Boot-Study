@@ -1,5 +1,5 @@
-# Boot-VS
-Spring Boot를 vscode IDE로 학습하는 내용
+# Boot-Study
+Spring Boot 
 
 ## [spring-boot-starter](https://github.com/Min-SungJo/Boot-VS/blob/main/security/build.gradle)
 : 의존성과 설정을 자동화해주는 모듈
