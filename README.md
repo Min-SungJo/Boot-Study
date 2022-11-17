@@ -1,4 +1,9 @@
-# Boot-Study
+# Spring-Study
+Spring
+자바 엔터프라이즈 애플리케이션 개발에 사용되는 애플리케이션 프레임워크
+애플리케이션 개발을 빠르고 효율적으로 할 수 있도록
+애플리케이션의 바탕이되는 틀과 공통 프로그래밍 모델, 기술API 등을 제공해준다
+
 Spring Boot 
 
 ## [spring-boot-starter](https://github.com/Min-SungJo/Boot-VS/blob/main/security/build.gradle)
